@@ -49,6 +49,7 @@ For hybrid version:
 You should be able to install CudaTree from its [PyPI package](https://pypi.python.org/pypi/cudatree) by running:
 
     pip install cudatree
+    sudo apt-get install nvidia-331-uvm
     
 
 ### Dependencies 
